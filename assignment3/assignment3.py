@@ -97,6 +97,9 @@ else:
     if i9== 5:
         print("Loop completed successfully", end=' ')
 
+#------------------------------------------
+#Question 10
+
 print("")
 x10 = 100
 print("Answer 10 : ",end=" ")
